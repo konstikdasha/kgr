@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/bin/gl_base_sample_2021.exe"
+			"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/bin/gl_base_sample_2021.exe"
 		},
 		{
-			"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/bin/gl_base_sample_2021.pdb"
+			"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/bin/gl_base_sample_2021.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -66,11 +66,11 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/dependencies/include/GLAD"
+					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/dependencies/include/GLAD"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/dependencies/include"
+					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/dependencies/include"
 				}
 			],
 			"language" : "C",
@@ -90,11 +90,11 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/dependencies/include/GLAD"
+					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/dependencies/include/GLAD"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/dependencies/include"
+					"path" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/dependencies/include"
 				}
 			],
 			"language" : "CXX",
@@ -130,7 +130,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LIBPATH:C:\\Users\\82B8~1\\OneDrive\\F0A5~1\\61C4D~1\\45C3~1\\9124~1\\GL_BAS~1\\GL_BAS~1\\DEPEND~1\\lib",
+				"fragment" : "-LIBPATH:C:\\Users\\82B8~1\\OneDrive\\F0A5~1\\61C4D~1\\45C3~1\\9124~1\\kgr\\GL_BAS~1\\GL_BAS~1\\DEPEND~1\\lib",
 				"role" : "libraryPath"
 			},
 			{

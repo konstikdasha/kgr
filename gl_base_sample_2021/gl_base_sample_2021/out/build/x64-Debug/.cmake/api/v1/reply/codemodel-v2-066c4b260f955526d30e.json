@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "gl_base_sample_2021::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gl_base_sample_2021-Debug-b8fb58cfe844b2d378ce.json",
+					"jsonFile" : "target-gl_base_sample_2021-Debug-49c35552bb2951b93abb.json",
 					"name" : "gl_base_sample_2021",
 					"projectIndex" : 0
 				}
@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021/out/build/x64-Debug",
-		"source" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/gl_base_sample_2021/gl_base_sample_2021"
+		"build" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021/out/build/x64-Debug",
+		"source" : "C:/Users/Дарена/OneDrive/Рабочий стол/6 семестр/Компьютерная графика/курсач/kgr/gl_base_sample_2021/gl_base_sample_2021"
 	},
 	"version" : 
 	{
