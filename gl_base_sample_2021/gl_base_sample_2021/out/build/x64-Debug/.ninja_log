@@ -1,0 +1,20 @@
+# ninja log v5
+27	1256	6559953982403928	CMakeFiles/gl_base_sample_2021.dir/std_image.cpp.obj	9c8ee1d05e84760a
+2	1293	6559953982873956	CMakeFiles/gl_base_sample_2021.dir/glad.c.obj	af059217632b2348
+20	2985	6559953999727336	CMakeFiles/gl_base_sample_2021.dir/Camera.cpp.obj	306e5d05fb224333
+10	3310	6559954003072363	CMakeFiles/gl_base_sample_2021.dir/ShaderProgram.cpp.obj	252eefdb024318dc
+34	3975	6559954009711664	CMakeFiles/gl_base_sample_2021.dir/main.cpp.obj	2467bf169090c6c6
+3979	6097	6559954028447849	../../../bin/gl_base_sample_2021.exe	372956a47d8790fa
+0	28	0	clean	dbb53d30f9e84630
+32	1256	6559954404363074	CMakeFiles/gl_base_sample_2021.dir/std_image.cpp.obj	9c8ee1d05e84760a
+2	1294	6559954404933108	CMakeFiles/gl_base_sample_2021.dir/glad.c.obj	af059217632b2348
+18	2901	6559954420885365	CMakeFiles/gl_base_sample_2021.dir/Camera.cpp.obj	306e5d05fb224333
+25	3191	6559954423884745	CMakeFiles/gl_base_sample_2021.dir/ShaderProgram.cpp.obj	252eefdb024318dc
+12	3798	6559954430007285	CMakeFiles/gl_base_sample_2021.dir/main.cpp.obj	2467bf169090c6c6
+3800	4742	6559954436238129	../../../bin/gl_base_sample_2021.exe	372956a47d8790fa
+1	1020	6559954508358183	CMakeFiles/gl_base_sample_2021.dir/glad.c.obj	af059217632b2348
+22	1057	6559954509013670	CMakeFiles/gl_base_sample_2021.dir/std_image.cpp.obj	9c8ee1d05e84760a
+15	2419	6559954522591080	CMakeFiles/gl_base_sample_2021.dir/Camera.cpp.obj	306e5d05fb224333
+29	2864	6559954527028759	CMakeFiles/gl_base_sample_2021.dir/ShaderProgram.cpp.obj	252eefdb024318dc
+10	3293	6559954531342915	CMakeFiles/gl_base_sample_2021.dir/main.cpp.obj	2467bf169090c6c6
+3296	4062	6559954536610525	../../../bin/gl_base_sample_2021.exe	372956a47d8790fa
